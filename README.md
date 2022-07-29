@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sedhu</h1>
 <h3 align="center">A full stack polyglot developer from India with 10+ years of product development experience as an Individual Contributor / Technical Lead.</h3>
 
-- 🔭 I’m currently working on **VMWare Enterprise Ethereum**
+- 🔭 I’m currently working at   **[<img src="https://cypherd.io/assets/images/logo.png" alt="cypherd logo" style="height: 90px;"/>](https://cypherd.io) - A non custodial Multichain wallet**
 
-- 🌱 I’m currently learning **Smart Contract Auditing, Defi**
+- 🔭 Past experiences **VMware Entreprise Ethereum, VMware SD WAN, Freshworks Analytics & DWH, Broadsoft Clients etc**
+
+- 🌱 I’m currently learning **Smart Contract Auditing, Defi, Zero Knowledge Proofs, Cosmos Ecosystem **
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
