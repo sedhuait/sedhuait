@@ -5,7 +5,7 @@
 
 - 🔭 Past experiences **VMware Entreprise Ethereum, VMware SD WAN, Freshworks Analytics & DWH, Broadsoft Clients etc**
 
-- 🌱 I’m currently learning **Smart Contract Auditing, Defi, Zero Knowledge Proofs, Cosmos Ecosystem **
+- 🌱 I’m currently learning **Smart Contract Auditing, Defi, Zero Knowledge Proofs, Cosmos Ecosystem**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
